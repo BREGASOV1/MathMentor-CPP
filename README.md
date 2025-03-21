@@ -20,7 +20,7 @@ A professional-grade console application for arithmetic skill development, demon
   - Windows Console API integration (`system("color")`)
   - Modular architecture with 10+ focused functions
 
-## How to Use
+# How to Use
 ```bash
 # Clone repository
 git clone https://github.com/BREGASOV1/MathMentor-CPP.git
